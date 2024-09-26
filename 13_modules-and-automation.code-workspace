@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../13_modules-and-automation"
+		},
+		{
+			"path": "../04_build-something"
+		},
+		{
+			"path": "../05_machine-setup"
+		},
+		{
+			"path": "../06_intro-to-programming"
+		},
+		{
+			"path": "../07_variables-and-types"
+		},
+		{
+			"path": "../08_numbers-and-math"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../10_operators-and-booleans"
+		},
+		{
+			"path": "../11_conditionals-and-loops"
+		},
+		{
+			"path": "../12_user-input-string-formatting"
+		},
+		{
+			"path": "../projects"
+		}
+	]
+}
